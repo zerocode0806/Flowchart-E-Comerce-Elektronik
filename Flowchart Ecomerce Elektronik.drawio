@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.2">
   <diagram name="Page-1" id="wu03LDlqRA8KogaQbp26">
-    <mxGraphModel dx="983" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -254,46 +254,46 @@
           <mxGeometry height="45" width="100" x="730" y="360" as="geometry" />
         </mxCell>
         <mxCell id="dWeHX8XcSrb2rMrxbLFI-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="30" x="1025.04" y="40" as="geometry" />
+          <mxGeometry height="30" width="30" x="995" y="40" as="geometry" />
         </mxCell>
         <mxCell id="dWeHX8XcSrb2rMrxbLFI-25" edge="1" parent="1" source="dWeHX8XcSrb2rMrxbLFI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dWeHX8XcSrb2rMrxbLFI-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dWeHX8XcSrb2rMrxbLFI-7" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="Menampilkan halaman katalog produk" vertex="1">
-          <mxGeometry height="50" width="85" x="997.54" y="110" as="geometry" />
+          <mxGeometry height="50" width="85" x="967.5" y="110" as="geometry" />
         </mxCell>
         <mxCell id="dWeHX8XcSrb2rMrxbLFI-8" edge="1" parent="1" source="dWeHX8XcSrb2rMrxbLFI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="dWeHX8XcSrb2rMrxbLFI-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dWeHX8XcSrb2rMrxbLFI-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="E" vertex="1">
-          <mxGeometry height="30" width="60" x="1010.04" y="10" as="geometry" />
+          <mxGeometry height="30" width="60" x="980" y="10" as="geometry" />
         </mxCell>
         <mxCell id="dWeHX8XcSrb2rMrxbLFI-27" edge="1" parent="1" source="dWeHX8XcSrb2rMrxbLFI-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dWeHX8XcSrb2rMrxbLFI-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dWeHX8XcSrb2rMrxbLFI-24" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="User memilih katalog produk yang sesuai" vertex="1">
-          <mxGeometry height="45" width="100" x="990.04" y="200" as="geometry" />
+          <mxGeometry height="45" width="100" x="960" y="200" as="geometry" />
         </mxCell>
         <mxCell id="dWeHX8XcSrb2rMrxbLFI-30" edge="1" parent="1" source="dWeHX8XcSrb2rMrxbLFI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dWeHX8XcSrb2rMrxbLFI-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dWeHX8XcSrb2rMrxbLFI-26" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="User memilih produk yang diinginkan" vertex="1">
-          <mxGeometry height="45" width="100" x="990.04" y="275" as="geometry" />
+          <mxGeometry height="45" width="100" x="960" y="275" as="geometry" />
         </mxCell>
         <mxCell id="dWeHX8XcSrb2rMrxbLFI-32" edge="1" parent="1" source="dWeHX8XcSrb2rMrxbLFI-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dWeHX8XcSrb2rMrxbLFI-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dWeHX8XcSrb2rMrxbLFI-28" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="User memasukkan barang ke keranjang" vertex="1">
-          <mxGeometry height="60" width="100" x="990.04" y="352.5" as="geometry" />
+          <mxGeometry height="60" width="100" x="960" y="352.5" as="geometry" />
         </mxCell>
         <mxCell id="dWeHX8XcSrb2rMrxbLFI-40" edge="1" parent="1" source="dWeHX8XcSrb2rMrxbLFI-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dWeHX8XcSrb2rMrxbLFI-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dWeHX8XcSrb2rMrxbLFI-31" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="kembali ke halaman katalog produk" vertex="1">
-          <mxGeometry height="50" width="85" x="997.54" y="440" as="geometry" />
+          <mxGeometry height="50" width="85" x="967.5" y="440" as="geometry" />
         </mxCell>
         <mxCell id="dWeHX8XcSrb2rMrxbLFI-33" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" value="F" vertex="1">
-          <mxGeometry height="30" width="30" x="1025.04" y="520" as="geometry" />
+          <mxGeometry height="30" width="30" x="995" y="520" as="geometry" />
         </mxCell>
         <mxCell id="dWeHX8XcSrb2rMrxbLFI-34" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" value="E" vertex="1">
           <mxGeometry height="30" width="30" x="165" y="620" as="geometry" />
