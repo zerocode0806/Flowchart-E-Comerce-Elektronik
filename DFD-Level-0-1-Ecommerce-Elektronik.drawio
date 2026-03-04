@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
   <diagram name="Page-1" id="gqqhNBlBLEkV3xNTR1m9">
-    <mxGraphModel dx="2194" dy="1195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2852" dy="1554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -297,6 +297,18 @@
             <mxPoint x="27" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xutgvuBRsiXVU73lb1DM-2" edge="1" parent="1" source="--GTzin6jPt4rB78STo0-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="--GTzin6jPt4rB78STo0-87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1590" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xutgvuBRsiXVU73lb1DM-3" connectable="0" parent="xutgvuBRsiXVU73lb1DM-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Bukti transaksi" vertex="1">
+          <mxGeometry relative="1" x="0.7139" y="3" as="geometry">
+            <mxPoint x="97" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="--GTzin6jPt4rB78STo0-50" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Admin" vertex="1">
           <mxGeometry height="90" width="210" x="1465" y="110" as="geometry" />
         </mxCell>
@@ -431,6 +443,18 @@
         </mxCell>
         <mxCell id="--GTzin6jPt4rB78STo0-93" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" value="data pesanan" vertex="1">
           <mxGeometry height="30" width="100" x="1335" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="xutgvuBRsiXVU73lb1DM-4" edge="1" parent="1" source="--GTzin6jPt4rB78STo0-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.161;entryY=0.984;entryDx=0;entryDy=0;entryPerimeter=0;" target="--GTzin6jPt4rB78STo0-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="909" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xutgvuBRsiXVU73lb1DM-5" connectable="0" parent="xutgvuBRsiXVU73lb1DM-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Bukti transaksi" vertex="1">
+          <mxGeometry relative="1" x="-0.6784" as="geometry">
+            <mxPoint x="-118" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
