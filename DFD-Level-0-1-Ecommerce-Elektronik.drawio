@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="Page-1" id="gqqhNBlBLEkV3xNTR1m9">
-    <mxGraphModel dx="1901" dy="1036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -291,7 +291,7 @@
         </mxCell>
         <mxCell id="I_JismmMvLo27T3WBxeZ-3" connectable="0" parent="I_JismmMvLo27T3WBxeZ-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data regestrasi" vertex="1">
           <mxGeometry relative="1" x="0.2297" as="geometry">
-            <mxPoint x="-13" as="offset" />
+            <mxPoint x="-13" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I_JismmMvLo27T3WBxeZ-4" edge="1" parent="1" source="I_JismmMvLo27T3WBxeZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="--GTzin6jPt4rB78STo0-2">
@@ -303,7 +303,7 @@
         </mxCell>
         <mxCell id="I_JismmMvLo27T3WBxeZ-5" connectable="0" parent="I_JismmMvLo27T3WBxeZ-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data login" vertex="1">
           <mxGeometry relative="1" x="0.3028" y="-1" as="geometry">
-            <mxPoint x="-28" as="offset" />
+            <mxPoint x="-28" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0Tjl5egkUVB7Mmj3adlR-7" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="--GTzin6jPt4rB78STo0-2">
@@ -318,7 +318,7 @@
         </mxCell>
         <mxCell id="0Tjl5egkUVB7Mmj3adlR-8" connectable="0" parent="0Tjl5egkUVB7Mmj3adlR-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data pesanan" vertex="1">
           <mxGeometry relative="1" x="0.451" y="2" as="geometry">
-            <mxPoint x="-45" as="offset" />
+            <mxPoint x="-48" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0Tjl5egkUVB7Mmj3adlR-9" edge="1" parent="1" source="I_JismmMvLo27T3WBxeZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="--GTzin6jPt4rB78STo0-2">
@@ -330,7 +330,7 @@
         </mxCell>
         <mxCell id="0Tjl5egkUVB7Mmj3adlR-10" connectable="0" parent="0Tjl5egkUVB7Mmj3adlR-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data pembayaran" vertex="1">
           <mxGeometry relative="1" x="0.4495" as="geometry">
-            <mxPoint x="-61" as="offset" />
+            <mxPoint x="-64" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I_JismmMvLo27T3WBxeZ-1" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="user" vertex="1">
@@ -345,7 +345,7 @@
         </mxCell>
         <mxCell id="I_JismmMvLo27T3WBxeZ-20" connectable="0" parent="I_JismmMvLo27T3WBxeZ-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data produk" vertex="1">
           <mxGeometry relative="1" x="0.4202" y="1" as="geometry">
-            <mxPoint x="33" as="offset" />
+            <mxPoint x="39" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I_JismmMvLo27T3WBxeZ-21" edge="1" parent="1" source="I_JismmMvLo27T3WBxeZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="--GTzin6jPt4rB78STo0-2">
@@ -357,7 +357,7 @@
         </mxCell>
         <mxCell id="I_JismmMvLo27T3WBxeZ-22" connectable="0" parent="I_JismmMvLo27T3WBxeZ-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Konfirmasi pembayaran" vertex="1">
           <mxGeometry relative="1" x="0.4406" as="geometry">
-            <mxPoint x="17" as="offset" />
+            <mxPoint x="24" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I_JismmMvLo27T3WBxeZ-16" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="admin" vertex="1">
@@ -374,7 +374,7 @@
         </mxCell>
         <mxCell id="I_JismmMvLo27T3WBxeZ-18" connectable="0" parent="I_JismmMvLo27T3WBxeZ-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data login admin" vertex="1">
           <mxGeometry relative="1" x="0.3644" y="1" as="geometry">
-            <mxPoint x="10" as="offset" />
+            <mxPoint x="8" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I_JismmMvLo27T3WBxeZ-25" edge="1" parent="1" source="--GTzin6jPt4rB78STo0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.931;entryY=1.061;entryDx=0;entryDy=0;entryPerimeter=0;" target="I_JismmMvLo27T3WBxeZ-16">
@@ -386,12 +386,12 @@
         </mxCell>
         <mxCell id="I_JismmMvLo27T3WBxeZ-26" connectable="0" parent="I_JismmMvLo27T3WBxeZ-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data transaksi" vertex="1">
           <mxGeometry relative="1" x="-0.4385" as="geometry">
-            <mxPoint x="64" y="-40" as="offset" />
+            <mxPoint x="64" y="-50" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0Tjl5egkUVB7Mmj3adlR-22" connectable="0" parent="I_JismmMvLo27T3WBxeZ-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Laporan pemesanan" vertex="1">
           <mxGeometry relative="1" x="-0.4501" y="-1" as="geometry">
-            <mxPoint x="98" as="offset" />
+            <mxPoint x="96" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I_JismmMvLo27T3WBxeZ-30" edge="1" parent="1" source="I_JismmMvLo27T3WBxeZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="--GTzin6jPt4rB78STo0-76" value="">
@@ -421,7 +421,7 @@
         </mxCell>
         <mxCell id="0Tjl5egkUVB7Mmj3adlR-6" connectable="0" parent="0Tjl5egkUVB7Mmj3adlR-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Informasi produk" vertex="1">
           <mxGeometry relative="1" x="-0.4623" as="geometry">
-            <mxPoint x="-30" as="offset" />
+            <mxPoint x="-35" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0Tjl5egkUVB7Mmj3adlR-11" edge="1" parent="1" source="--GTzin6jPt4rB78STo0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="I_JismmMvLo27T3WBxeZ-1">
@@ -433,7 +433,7 @@
         </mxCell>
         <mxCell id="0Tjl5egkUVB7Mmj3adlR-12" connectable="0" parent="0Tjl5egkUVB7Mmj3adlR-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Konfirmasi pembayaran" vertex="1">
           <mxGeometry relative="1" x="-0.4453" y="1" as="geometry">
-            <mxPoint x="-73" as="offset" />
+            <mxPoint x="-72" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0Tjl5egkUVB7Mmj3adlR-13" edge="1" parent="1" source="--GTzin6jPt4rB78STo0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.077;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" target="I_JismmMvLo27T3WBxeZ-1">
@@ -445,7 +445,7 @@
         </mxCell>
         <mxCell id="0Tjl5egkUVB7Mmj3adlR-14" connectable="0" parent="0Tjl5egkUVB7Mmj3adlR-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="status pesanan" vertex="1">
           <mxGeometry relative="1" x="-0.441" y="1" as="geometry">
-            <mxPoint x="-124" as="offset" />
+            <mxPoint x="-124" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0Tjl5egkUVB7Mmj3adlR-16" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Logout&lt;/span&gt;" vertex="1">
