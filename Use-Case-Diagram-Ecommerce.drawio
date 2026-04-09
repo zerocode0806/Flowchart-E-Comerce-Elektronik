@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="dRbHKAV_CR8SByUMhfl5">
-    <mxGraphModel dx="1170" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="814" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,19 +35,19 @@
           <mxGeometry height="50" width="90" x="1210" y="345" as="geometry" />
         </mxCell>
         <mxCell id="cDPJe1AwSSXMo72hDsHs-28" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="melihat katalog&amp;nbsp;" vertex="1">
-          <mxGeometry height="50" width="90" x="1090" y="345" as="geometry" />
+          <mxGeometry height="50" width="90" x="1090" y="320" as="geometry" />
         </mxCell>
         <mxCell id="cDPJe1AwSSXMo72hDsHs-30" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="peralatan rumah" vertex="1">
-          <mxGeometry height="50" width="90" x="1000" y="285" as="geometry" />
+          <mxGeometry height="50" width="90" x="1000" y="260" as="geometry" />
         </mxCell>
         <mxCell id="cDPJe1AwSSXMo72hDsHs-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="komputer" vertex="1">
-          <mxGeometry height="50" width="90" x="1180" y="285" as="geometry" />
+          <mxGeometry height="50" width="90" x="1180" y="260" as="geometry" />
         </mxCell>
         <mxCell id="cDPJe1AwSSXMo72hDsHs-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="kamera dan&amp;nbsp;&lt;div&gt;video&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="90" x="1030" y="230" as="geometry" />
+          <mxGeometry height="50" width="90" x="1030" y="205" as="geometry" />
         </mxCell>
         <mxCell id="cDPJe1AwSSXMo72hDsHs-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="audio" vertex="1">
-          <mxGeometry height="50" width="90" x="1160" y="225" as="geometry" />
+          <mxGeometry height="50" width="90" x="1160" y="200" as="geometry" />
         </mxCell>
         <mxCell id="cDPJe1AwSSXMo72hDsHs-39" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="mengelola produk" vertex="1">
           <mxGeometry height="50" width="90" x="1400" y="390" as="geometry" />
@@ -192,7 +192,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cDPJe1AwSSXMo72hDsHs-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="Usecase Ecommerce" vertex="1">
-          <mxGeometry height="30" width="235" x="1171.5" y="100" as="geometry" />
+          <mxGeometry height="30" width="235" x="1177.5" y="140" as="geometry" />
         </mxCell>
         <mxCell id="cDPJe1AwSSXMo72hDsHs-69" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="memilih&lt;div&gt;pengiriman&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="90" x="1320" y="345" as="geometry" />
