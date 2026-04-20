@@ -103,10 +103,10 @@
         <mxCell id="6qmKTzAH-JHt6TpVDPgM-129" parent="6qmKTzAH-JHt6TpVDPgM-124" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ checkout()" vertex="1">
           <mxGeometry height="26" width="160" y="112" as="geometry" />
         </mxCell>
-        <mxCell id="6qmKTzAH-JHt6TpVDPgM-130" parent="6qmKTzAH-JHt6TpVDPgM-124" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ hapusBarang()" vertex="1">
+        <mxCell id="6qmKTzAH-JHt6TpVDPgM-130" parent="6qmKTzAH-JHt6TpVDPgM-124" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ hapusDariKeranjang()" vertex="1">
           <mxGeometry height="26" width="160" y="138" as="geometry" />
         </mxCell>
-        <mxCell id="6qmKTzAH-JHt6TpVDPgM-131" parent="6qmKTzAH-JHt6TpVDPgM-124" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ tambahBarang()" vertex="1">
+        <mxCell id="6qmKTzAH-JHt6TpVDPgM-131" parent="6qmKTzAH-JHt6TpVDPgM-124" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ masukkanKeranjang()" vertex="1">
           <mxGeometry height="26" width="160" y="164" as="geometry" />
         </mxCell>
         <mxCell id="6qmKTzAH-JHt6TpVDPgM-132" edge="1" parent="1" source="6qmKTzAH-JHt6TpVDPgM-125" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="6qmKTzAH-JHt6TpVDPgM-104" value="">
