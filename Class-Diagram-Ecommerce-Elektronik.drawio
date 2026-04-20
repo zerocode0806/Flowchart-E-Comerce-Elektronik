@@ -1,19 +1,19 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="pvudsjBZ8id6B8bB_D_j">
-    <mxGraphModel dx="564" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="314" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oMNQJA7QbUeCPngOUdLj-81" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="user" vertex="1">
           <mxGeometry height="190" width="160" x="1700" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="oMNQJA7QbUeCPngOUdLj-82" parent="oMNQJA7QbUeCPngOUdLj-81" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- idUser : int" vertex="1">
+        <mxCell id="oMNQJA7QbUeCPngOUdLj-82" parent="oMNQJA7QbUeCPngOUdLj-81" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="# idUser : int" vertex="1">
           <mxGeometry height="26" width="160" y="26" as="geometry" />
         </mxCell>
-        <mxCell id="oMNQJA7QbUeCPngOUdLj-92" parent="oMNQJA7QbUeCPngOUdLj-81" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- email : string" vertex="1">
+        <mxCell id="oMNQJA7QbUeCPngOUdLj-92" parent="oMNQJA7QbUeCPngOUdLj-81" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="# email : string" vertex="1">
           <mxGeometry height="26" width="160" y="52" as="geometry" />
         </mxCell>
-        <mxCell id="oMNQJA7QbUeCPngOUdLj-93" parent="oMNQJA7QbUeCPngOUdLj-81" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- password : string" vertex="1">
+        <mxCell id="oMNQJA7QbUeCPngOUdLj-93" parent="oMNQJA7QbUeCPngOUdLj-81" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="# password : string" vertex="1">
           <mxGeometry height="26" width="160" y="78" as="geometry" />
         </mxCell>
         <mxCell id="oMNQJA7QbUeCPngOUdLj-88" parent="oMNQJA7QbUeCPngOUdLj-81" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
